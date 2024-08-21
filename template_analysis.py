@@ -59,10 +59,3 @@ def analyze_template(model_name=None):
 
     print(f"Red area dimensions: width={red_width}, height={red_height}")
 
-#analize for 12 and 11
-analyze_template("ip12")
-analyze_template("ip12_mini")
-analyze_template("ip12_promax")
-analyze_template("ip11")
-analyze_template("ip11_pro")
-analyze_template("ip11_promax")
